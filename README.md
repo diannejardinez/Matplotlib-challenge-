@@ -21,7 +21,7 @@ Given the task by the executive team to generate all of the tables and figures n
 - A scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen. Additionally, show the calculation of the correlation coefficient and linear regression model and plot this linear regression model on top of the scatter plot.
 
 
-**Observations and Insights: ** 
+**Observations and Insights:** 
 250 mice identified with squamous cell carcinoma (SCC) tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured.
 - Of the drug regimens used, Capomulin and Ramicane were the treatments seen in mice with the lowest average tumor volume whereas Ketapril and Naftisol regimens had the highest average of tumor volume.
 
